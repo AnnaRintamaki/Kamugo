@@ -3381,18 +3381,22 @@ background:#DDDDDD;
 	padding: 10px;
   }
 
-.catalog_menu a
-  {
+.catalog_menu a {
   padding-right:25px;
   color: #fff;
   font-weight: normal;
   font-size: 12pt;
-  }
-.catalog_menu a:hover
-  {
+}
+
+.catalog_menu a:hover {
   text-decoration: none;
   color: #009991;
-  }
+}
+
+.catalog_menu a.active {
+	color: #e84526;
+}
+
 .catalog_group
   {
   margin-left: 15px;
