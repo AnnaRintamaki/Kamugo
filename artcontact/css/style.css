@@ -3397,17 +3397,21 @@ background:#DDDDDD;
 	color: #e84526;
 }
 
-.catalog_group
-  {
+.catalog_group {
   margin-left: 15px;
   width: 310px;
   float: left;
   padding: 0px 25px 25px 0px;
-  }
-.catalog_group a
-  {
+}
+
+.catalog_group a {
   color: #3a3a3a;
-  }
+}
+
+.catalog_group h2 {
+	padding-bottom: 10px;
+}
+
 .searchNew ul li select
   {
   width: 220px;
