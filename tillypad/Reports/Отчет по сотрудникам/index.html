@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="generator" content="Tillypad POS (Android), www.tillypad.ru">
+    <link rel="stylesheet" type="text/css" href="css/tapreport.css">
+    <SCRIPT xmlns:exsl="http://exslt.org/common" type="text/javascript" src="js/jquery.js"></SCRIPT> 
+    <SCRIPT xmlns:exsl="http://exslt.org/common" type="text/javascript" src="js/reporter.js"></SCRIPT>
+    <SCRIPT xmlns:exsl="http://exslt.org/common" type="text/javascript" src="js/numeral.js"></SCRIPT>
+    <SCRIPT xmlns:exsl="http://exslt.org/common" type="text/javascript" src="js/languages.js"></SCRIPT>  
+    <SCRIPT xmlns:exsl="http://exslt.org/common" type="text/javascript" src="js/jquery.jqplot.min.js"></SCRIPT>
+    <SCRIPT xmlns:exsl="http://exslt.org/common" type="text/javascript" src="js/plugins/jqplot.barRenderer.min.js"></SCRIPT>
+    <SCRIPT xmlns:exsl="http://exslt.org/common" type="text/javascript" src="js/plugins/jqplot.categoryAxisRenderer.min.js"></SCRIPT>
+    <SCRIPT xmlns:exsl="http://exslt.org/common" type="text/javascript" src="js/plugins/jqplot.pointLabels.min.js"></SCRIPT>
+    <SCRIPT xmlns:exsl="http://exslt.org/common" type="text/javascript" src="js/plugins/jqplot.canvasAxisTickRenderer.min.js"></SCRIPT>
+
+    <title></title>
+  </head>
+  <body>
+    <div id="mainbox">
+    <div id="tapheader">
+      <h2>Отчет по сотрудникам</h2>
+    </div>
+    <div id="taptable">  
+      <div id="tableset">     
+        <table id="tapreport-table">
+          <tr>
+            <th align="left"><p>Сотрудник</p></th>
+            <th align="right"><p>Счетов</p></th> 
+            <th align="right"><p>Средний чек</p></th>
+            <th align="right"><p>Сумма по меню</p></th>
+            <th align="right"><p>Скидка</p></th> 
+            <th align="right"><p>Наценка</p></th>
+            <th align="right"><p>Сумма реализации</p></th>           
+          </tr>
+          <tfoot id="tapfooter">           
+          </tfoot>
+        </table>        
+      </div>
+    </div>  
+    <div id="tapgraph">
+      <div id="placeholder" style="width:75%;"></div>  
+    </div>
+    </div>
+  </body>
+</html>    
+    

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ROWS>
+  <ROW>
+    <sprv_ID></sprv_ID>
+    <sprv_Name>Без привилегии</sprv_Name>
+    <orit_Price>1825</orit_Price>
+    <orit_PriceDiscount>0</orit_PriceDiscount>
+    <orit_PriceMargin>0</orit_PriceMargin>
+    <mitm_Price>1825</mitm_Price>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <sprv_ID>27C87D52-F84B-3941-80EE-B8CCF17DCFD6</sprv_ID>
+    <sprv_Name>10% на все и не более 50% на напитки</sprv_Name>
+    <orit_Price>50</orit_Price>
+    <orit_PriceDiscount>0</orit_PriceDiscount>
+    <orit_PriceMargin>0</orit_PriceMargin>
+    <mitm_Price>50</mitm_Price>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <sprv_ID>C823E0CB-B6DC-B74E-9BA3-8856B5D9EE77</sprv_ID>
+    <sprv_Name>скидка 10% на все</sprv_Name>
+    <orit_Price>65</orit_Price>
+    <orit_PriceDiscount>0</orit_PriceDiscount>
+    <orit_PriceMargin>0</orit_PriceMargin>
+    <mitm_Price>65</mitm_Price>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+</ROWS>

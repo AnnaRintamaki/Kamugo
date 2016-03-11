@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ROWS>
+  <ROW>
+    <mgrp_ID>29F7D6CF-5721-194E-B33B-858964555FC7</mgrp_ID>
+    <mgrp_Name>Супы</mgrp_Name>
+    <Sale_Sum>155</Sale_Sum>
+    <Dicsount_Sum>0</Dicsount_Sum>
+    <Margin_Sum>0</Margin_Sum>
+    <Mitm_Sum>155</Mitm_Sum>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <mgrp_ID>4936D70F-B949-CC4E-AB0F-95B1476B4500</mgrp_ID>
+    <mgrp_Name>Горячее</mgrp_Name>
+    <Sale_Sum>90</Sale_Sum>
+    <Dicsount_Sum>0</Dicsount_Sum>
+    <Margin_Sum>0</Margin_Sum>
+    <Mitm_Sum>90</Mitm_Sum>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <mgrp_ID>CCEC0BC8-EE05-C147-B06A-349D49DCF73C</mgrp_ID>
+    <mgrp_Name>Приправы, соусы</mgrp_Name>
+    <Sale_Sum>0</Sale_Sum>
+    <Dicsount_Sum>0</Dicsount_Sum>
+    <Margin_Sum>0</Margin_Sum>
+    <Mitm_Sum>0</Mitm_Sum>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <mgrp_ID>ED57222E-EC39-7247-B05C-0A2DC4BC8FE0</mgrp_ID>
+    <mgrp_Name>Гарниры</mgrp_Name>
+    <Sale_Sum>105</Sale_Sum>
+    <Dicsount_Sum>0</Dicsount_Sum>
+    <Margin_Sum>0</Margin_Sum>
+    <Mitm_Sum>105</Mitm_Sum>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+</ROWS>

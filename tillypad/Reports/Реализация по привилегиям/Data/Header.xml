@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ROWS>
+  <ROW>
+    <orit_Price>1940</orit_Price>
+    <orit_PriceDiscount>0</orit_PriceDiscount>
+    <orit_PriceMargin>0</orit_PriceMargin>
+    <mitm_Price>1940</mitm_Price>
+    <dvsn_Name>Ресторан</dvsn_Name>
+    <arch_Name>1</arch_Name>
+    <arch_DateOpen>2016-02-11 09:34:02</arch_DateOpen>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+</ROWS>

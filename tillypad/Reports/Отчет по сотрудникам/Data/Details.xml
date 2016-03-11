@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ROWS>
+  <ROW>
+    <prch_usr_ID>EFF71564-4F76-C34B-A2E7-38163617BB79</prch_usr_ID>
+    <usr_Name>Босс</usr_Name>
+    <prch_Count>3</prch_Count>
+    <Average_Prch_Sum>53.333333333333</Average_Prch_Sum>
+    <prch_Sum>140</prch_Sum>
+    <mitm_Sum>160</mitm_Sum>
+    <pcit_PriceDiscount>40</pcit_PriceDiscount>
+    <pcit_PriceMargin>60</pcit_PriceMargin>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+    <ROW>
+    <prch_usr_ID>EFF71564-4F76-C34B-A2E7-38163617BB79</prch_usr_ID>
+    <usr_Name>Минибосс</usr_Name>
+    <prch_Count>4</prch_Count>
+    <Average_Prch_Sum>17.444444444444444</Average_Prch_Sum>
+    <prch_Sum>200</prch_Sum>
+    <mitm_Sum>220</mitm_Sum>
+    <pcit_PriceDiscount>60</pcit_PriceDiscount>
+    <pcit_PriceMargin>80</pcit_PriceMargin>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+    <ROW>
+    <prch_usr_ID>EFF71564-4F76-C34B-A2E7-38163617BB79</prch_usr_ID>
+    <usr_Name>Микробосс</usr_Name>
+    <prch_Count>5</prch_Count>
+    <Average_Prch_Sum>28.555555555</Average_Prch_Sum>
+    <prch_Sum>340</prch_Sum>
+    <mitm_Sum>400</mitm_Sum>
+    <pcit_PriceDiscount>140</pcit_PriceDiscount>
+    <pcit_PriceMargin>75</pcit_PriceMargin>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+</ROWS>

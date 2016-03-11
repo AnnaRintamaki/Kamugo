@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROWS>
+  <ROW>
+    <Hour>0</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>1</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>2</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>3</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>4</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>5</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>6</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>7</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>8</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>9</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>10</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>11</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>12</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>13</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>14</Hour>
+    <Revenue_Sum>2000</Revenue_Sum>
+    <GuestTab_Count>50</GuestTab_Count>
+    <Discount_Sum>125</Discount_Sum>
+    <Margin_SUM>55</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>15</Hour>
+    <Revenue_Sum>3000</Revenue_Sum>
+    <GuestTab_Count>60</GuestTab_Count>
+    <Discount_Sum>200</Discount_Sum>
+    <Margin_SUM>75</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>16</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>17</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>18</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>19</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>20</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>21</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>22</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+  <ROW>
+    <Hour>23</Hour>
+    <Revenue_Sum>0</Revenue_Sum>
+    <GuestTab_Count>0</GuestTab_Count>
+    <Discount_Sum>0</Discount_Sum>
+    <Margin_SUM>0</Margin_SUM>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+</ROWS>

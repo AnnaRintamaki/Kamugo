@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROWS>
+  <ROW>
+    <arch_Name>1</arch_Name>
+    <arch_DateOpen>2016-02-03 07:00:41</arch_DateOpen>
+    <dvsn_Name>Ресторан</dvsn_Name>
+    <prch_Count>3</prch_Count>
+    <Average_Prch_Sum>53.333333333333</Average_Prch_Sum>
+    <prch_Sum>680</prch_Sum>
+    <mitm_Sum>780</mitm_Sum>
+    <pcit_PriceDiscount>240</pcit_PriceDiscount>
+    <pcit_PriceMargin>215</pcit_PriceMargin>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+</ROWS>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROWS>
+  <ROW>
+    <Revenue_Sum>5000</Revenue_Sum>
+    <GuestTab_Count>110</GuestTab_Count>
+    <Discount_Sum>325</Discount_Sum>
+    <Margin_SUM>130</Margin_SUM>
+    <dvsn_Name>Ресторан</dvsn_Name>
+    <arch_Name>1</arch_Name>
+    <arch_DateOpen>2016-02-04 12:52:09</arch_DateOpen>
+    <CurrencyFormat>0.00 руб</CurrencyFormat>
+  </ROW>
+</ROWS>

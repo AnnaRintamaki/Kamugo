@@ -1,0 +1,545 @@
+/* Default size values are set up for 1920px. They will as well work for screen sizes more than 1280px */
+body {
+	font-family: "Verdana", sans-serif;
+}
+
+/* Clearfix */
+.clearfix:before,
+.clearfix:after {
+	content: " ";
+	display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+/* Hidden */
+.hidden {
+	display: none;
+}
+
+/* Roll */
+.roll:after {
+	content: "+";
+}
+
+.roll_opened:after {
+	content: "\2212";
+}
+
+/* Container */
+.container {
+	width: 1497px;
+	margin: 0 auto;
+}
+
+@media screen and (max-width: 1280px) {
+	.container {
+		width: 998px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.container {
+		width: 800px;
+	}
+}
+
+/* Report */
+.report__name {
+	min-width: 1497px;
+	margin-bottom: 35px;
+	font-size: 32pt;
+	line-height: 93px;
+	border-bottom-width: 6px;
+	border-bottom-style: solid;
+	border-bottom-color: #EBEDED;
+	text-align: center;
+}
+
+@media screen and (max-width: 1280px) {
+	.report__name {
+		min-width: 1280px;
+		margin-bottom: 25px;
+		font-size: 22pt;
+		line-height: 63px;	
+		border-bottom-width: 4px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.report__name {
+		min-width: 1024px;
+		margin-bottom: 19px;
+		font-size: 17pt;
+		line-height: 49px;	
+		border-bottom-width: 3px;
+	}
+}
+
+/* Group */
+.group {
+	width: 1497px;
+	margin-left: auto;
+	margin-right: auto; 
+	margin-bottom: 6px;
+}
+
+@media screen and (max-width: 1280px) {
+	.group {
+		width: 998px;
+		margin-bottom: 4px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.group {
+		width: 800px;
+		margin-bottom: 3px;
+	}
+}
+
+.group__header {
+	font-size: 22pt;
+	line-height: 76px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #1E9EA7;
+	cursor: pointer;
+}
+
+@media screen and (max-width: 1280px) {
+	.group__header {
+		font-size: 15pt;
+		line-height: 51px;	
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.group__header {
+		font-size: 12pt;
+		line-height: 40px;	
+	}
+}
+
+.group__header_opened {
+	background-color: #007882;
+}
+
+.group__header .roll {
+	float: left;
+	padding-left: 19px;
+	padding-right: 19px;
+}
+
+@media screen and (max-width: 1280px) {
+	.group__header .roll {
+		padding-left: 13px;
+		padding-right: 13px;
+	}	
+}
+
+@media screen and (max-width: 1024px) {
+	.group__header .roll {
+		padding-left: 10px;
+		padding-right: 10px;
+	}	
+}
+
+.group__name {
+	float: left;
+	width: 1138px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+@media screen and (max-width: 1280px) {
+	.group__name {
+		width: 759px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.group__name {
+		width: 607px;
+	}
+}
+
+.group__sum {
+	float: right;
+	padding-right: 43px;
+}
+
+@media screen and (max-width: 1280px) {
+	.group__sum {
+		padding-right: 29px;
+	}	
+}
+
+@media screen and (max-width: 1024px) {
+	.group__sum {
+		padding-right: 23px;
+	}	
+}
+
+/* group__body */
+.group__body {
+	width: 1478px; /* 736 + 6 + 736 */ 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media screen and (max-width: 1280px) {
+	.group__body {
+		width: 986px; /* 491+ 4 + 491 */
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.group__body {
+		width: 787px; /* 392 + 3 + 392 */
+	}
+}
+
+/* Items */
+.items {
+	float: left;
+	width: 736px;
+}
+
+@media screen and (max-width: 1280px) {
+	.items {
+		width: 491px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.items {
+		width: 392px;
+	}
+}
+
+.items + .items {
+	margin-left: 6px;
+}
+
+@media screen and (max-width: 1280px) {
+	.items + .items {
+		margin-left: 4px;
+	}	
+}
+
+@media screen and (max-width: 1024px) {
+	.items + .items {
+		margin-left: 3px;
+	}	
+}
+
+/* Item */
+.item {
+	margin-top: 7px;
+	font-size: 17pt;
+}
+
+@media screen and (max-width: 1280px) {
+	.item {
+		margin-top: 5px;
+		font-size: 12pt;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.item {
+		margin-top: 4px;
+		font-size: 10pt;
+	}
+}
+
+.item__header {
+	line-height: 58px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #1E9EA7;
+	cursor: pointer;
+}
+
+@media screen and (max-width: 1280px) {
+	.item__header {
+		line-height: 39px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.item__header {
+		line-height: 31px;
+	}
+}
+
+.item__header_opened {
+	background-color: #007882;
+}
+
+.item__header .roll {
+	float: left;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+@media screen and (max-width: 1280px) {
+	.item__header .roll {
+		padding-left: 11px;
+		padding-right: 11px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.item__header .roll {
+		padding-left: 9px;
+		padding-right: 9px;
+	}
+}
+
+.item__number {
+	float: left;
+	padding-right: 16px;
+}
+
+@media screen and (max-width: 1280px) {
+	.item__number {
+		padding-right: 11px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.item__number {
+		padding-right: 9px;
+	}
+}
+
+.item__name {
+	float: left;
+	width: 435px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+@media screen and (max-width: 1280px) {
+	.item__name {
+		width: 266px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.item__name {
+		width: 231px;
+	}
+}
+
+.item__sum {
+	float: right;
+	padding-right: 24px;
+}
+
+/* Item table */
+.item__table {
+	width: 736px;
+	margin-top: -7px;
+}
+
+@media screen and (max-width: 1280px) {
+	.item__table {
+		width: 491px;
+		margin-top: -5px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.item__table {
+		width: 392px;
+		margin-top: -4px;
+	}
+}
+
+.item__table th {
+	padding-left: 30px;
+	line-height: 44px;
+	font-weight: bold;
+	border-bottom: 1px solid #FFFFFF;
+	color: #FFFFFF;
+	background-color: #1E9EA7;
+}
+
+@media screen and (max-width: 1280px) {
+	.item__table th {
+		padding-left: 20px;
+		line-height: 29px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.item__table th {
+		padding-left: 16px;
+		line-height: 23px;
+	}
+}
+
+.item__table td {
+	padding-top: 28px;
+	padding-bottom: 28px;
+	line-height: 17pt;
+	border-bottom: 1px solid #FFFFFF;
+	color: #000000;
+	background-color: #E2F0F1;
+}
+
+@media screen and (max-width: 1280px) {
+	.item__table td {
+		padding-top: 19px;
+		padding-bottom: 19px;
+		line-height: 12pt;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.item__table td {
+		padding-top: 15px;
+		padding-bottom: 15px;
+		line-height: 10pt;
+	}
+}
+
+.table__name {
+	width: 386px; /* + 30 + 30 + 2 = 448 */
+	padding-left: 30px;
+	padding-right: 30px;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #FFFFFF;
+	text-align: left;
+}
+
+@media screen and (max-width: 1280px) {
+	.table__name {
+		width: 258px; /* + 20 + 20 + 1 = 299 */
+		padding-left: 20px;
+		padding-right: 20px;
+		border-right-width: 1px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.table__name {
+		width: 205px; /* + 16 + 16 + 1 = 238 */
+		padding-left: 16px;
+		padding-right: 16px;
+		border-right-width: 1px;
+	}
+}
+
+.table__sum {
+	width: 297px; /* + 19 = 334 */
+	padding-right: 37px;
+	text-align: right;
+}
+
+@media screen and (max-width: 1280px) {
+	.table__sum {
+		width: 200px; /* + 24 = 224 */
+		padding-right: 24px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.table__sum {
+		width: 160px; /* + 19 = 179 */
+		padding-right: 19px;
+	}
+}
+
+.table__total {
+	font-weight: bold;
+}
+
+/* jqPlot */
+.jqplot-target {
+	width: 1497px;
+	margin-top: 41px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 41px;
+}
+
+@media screen and (max-width: 1280px) {
+	.jqplot-target {
+		width: 998px;
+		margin-top: 27px;
+		margin-bottom: 27px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.jqplot-target {
+		width: 800px;
+		margin-top: 22px;
+		margin-bottom: 22px;
+	}
+}
+
+.jqplot-yaxis-tick {
+	width: 269px;
+	max-width: 269px;
+	margin-right: 39px;
+	font-size: 22pt;
+	line-height: 42px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+@media screen and (max-width: 1280px) {
+	.jqplot-yaxis-tick {
+		width: 179px;
+		max-width: 179px;
+		margin-right: 26px;
+		font-size: 15pt;
+		line-height: 28px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.jqplot-yaxis-tick {
+		width: 143px;
+		max-width: 143px;
+		margin-right: 21px;
+		font-size: 12pt;
+		line-height: 23px;
+	}
+}
+
+.jqplot-point-label {
+	margin-left: 34px; /* + 5px добавляет плагин = 39px */
+	font-size: 22pt;
+	line-height: 42px;
+}
+
+@media screen and (max-width: 1280px) {
+	.jqplot-point-label {
+		margin-left: 21px; /* + 5px добавляет плагин = 26px */
+		font-size: 15pt;
+		line-height: 28px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.jqplot-point-label {
+		margin-left: 16px; /* + 5px добавляет плагин = 21px */
+		font-size: 12pt;
+		line-height: 23px;
+	}
+}
+
+
+	
