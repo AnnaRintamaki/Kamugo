@@ -214,13 +214,12 @@ span.red{
 .head .head_block .bottom_block .express_block .right_box a:hover.express{
     text-decoration:none;
 }
-.cont{
-    width:976px;
-    margin:auto;
-    height:1243px;
-    min-height:1243px;
-    height:auto !important;
+
+.cont {
+	width: 976px;
+  margin: auto;
 }
+
 .cont .left_col{
     float:left;
     width:715px;
@@ -4065,12 +4064,14 @@ padding: 0;
 }
 
 .upFilter {
-    position: relative;
-    width: 243px;
-    background-color: white;
-    padding: 0 30px 8px 8px;
-    border: 1px solid #e6e6e6;
+  position: relative;
+  width: 243px;
+	margin-bottom: 5px;
+  padding: 0 30px 8px 8px;
+  border: 1px solid #e6e6e6;
+	background-color: white;
 }
+
 .upFilter input, .upFilter div, .upFilter select, .upFilter a {
     font-size: 12px;
 }
