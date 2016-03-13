@@ -1122,10 +1122,17 @@ a.small_circle_link.look{
 .picture_block.medium .bottom_text{
     padding-left:10px;
 }
-.picture_block.medium .bottom_text .text_box{
-    padding-top:5px;
-    padding-right:5px;
+
+.picture_block.medium .bottom_text .text_box {
+	height: 5rem;
+	padding-right: 5px;
 }
+
+.picture_block.medium .bottom_text .text_box span {
+  /* для перекрытия встроенного стиля <span style="font-size: 11pt; line-height: 115%;">. Пока не получилось найти, кто этот стиль добавляет */
+	line-height: 1rem !important; 
+}
+
 div.line_block div.picture_block.medium div.bottom_text div.text_box p, div.line_block div.picture_block.medium div.bottom_text div.text_box span{
     color: #a8a8a8 !important;
     font-size: 10pt !important;
@@ -3768,16 +3775,16 @@ float: right;
 		border-radius: 90px
 }
 
-
-
 /* big_line_block*/
 /* big_line_block*/
 /* big_line_block*/
 
 
 .big_line_block .title_box {
-    overflow-y: hidden;
-   height: 48px;
+  height: 3rem;
+	padding-bottom: 0;
+	margin-bottom: 5px;
+	overflow-y: hidden;
 }
 
 .big_line_block .wrap_picture_block{
@@ -3795,9 +3802,10 @@ float: right;
 }
 
 .big_line_block .text_box p {
-    margin-bottom: 20px;
-    max-height: 82px;
-    overflow-y: hidden;
+	height: 5rem;
+	margin-top: 0;
+  margin-bottom: 20px;
+  overflow-y: hidden;
 }
 
 
