@@ -3628,13 +3628,15 @@ background:#DDDDDD;
   margin: 0px 20px 20px 0px;
   padding: 10px;
   }
-.regOfferBlock select
-  {
+
+.regOfferBlock select {
   width: 194px;
-  margin: 0px 0px 20px 0px;
   height: 40px;
-  line-height: 36px;
-  }
+	padding: 10px;
+	margin: 0px 0px 20px 0px;
+	border: 1px solid #D1D1D1;
+	line-height: 16px;
+}
 
 .greyLink
   {
