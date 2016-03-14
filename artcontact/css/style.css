@@ -1095,12 +1095,16 @@ a.small_circle_link.look{
 .picture_block .img_block_second.none{
     margin:0;
 }
-.picture_block.medium{
-    width:162px;
-    margin-right:13px;
-    
 
+.picture_block.medium {
+  width: 163px;
+  margin-right: 16px;
 }
+
+.picture_block.medium:nth-child(4n) {
+	margin-right: 0;
+}
+
 .wrap_picture_block_medium
  {
  padding: 0px !important;   
@@ -1137,9 +1141,7 @@ div.line_block div.picture_block.medium div.bottom_text div.text_box p, div.line
     color: #a8a8a8 !important;
     font-size: 10pt !important;
 }
-.picture_block.medium.last{
-    margin:0;
-}
+
 .cont .left_col .big_line_block .line_block .news_block {
     width:345px;
     margin-right:9px;
