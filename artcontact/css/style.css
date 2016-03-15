@@ -3647,21 +3647,29 @@ background:#DDDDDD;
   font-size: 14px !important;
   }
 
-.partnersBlock
-  {
-  background-color: #fff;
+.partnersBlock {
+	display: table;
+	float: left;
   width: 165px;
   height: 100px;
-  overflow: hidden;
+  padding-bottom: 0;
   margin-left: 10px;
   margin-bottom: 10px;
-  float: left;
+	background-color: #fff;
+	overflow: hidden;
   text-align: center;
-  }
-.partnersImage
-  {
-  width: 100px;
-  }
+}
+
+.partnersBlock a {
+	display: table-cell;
+	padding-bottom: 0;
+	vertical-align: middle;
+}
+
+.partnersImage {
+  max-width: 165px;
+	max-height: 100px;
+}
 
 .indexOrderBlock
   {
