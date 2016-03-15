@@ -3650,14 +3650,22 @@ background:#DDDDDD;
 .partnersBlock {
 	display: table;
 	float: left;
-  width: 165px;
+  width: 163px;
   height: 100px;
   padding-bottom: 0;
-  margin-left: 10px;
+  margin-right: 16px;
   margin-bottom: 10px;
 	background-color: #fff;
 	overflow: hidden;
   text-align: center;
+}
+
+.partnersBlock:first-child {
+  margin-left: 10px;
+}
+
+.partnersBlock:nth-child(4n) {
+  margin-right: 0;
 }
 
 .partnersBlock a {
@@ -3667,7 +3675,7 @@ background:#DDDDDD;
 }
 
 .partnersImage {
-  max-width: 165px;
+  max-width: 163px;
 	max-height: 100px;
 }
 
